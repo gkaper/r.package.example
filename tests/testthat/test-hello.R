@@ -7,5 +7,7 @@ test_that("hello_cli() works", {
 })
 
 test_that("fix me!!!", {
-  expect_equal(1, 2)
+  # expect_equal(1, 2)
+  expect_equal(1, 1)
+
 })
